@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>vulcão totumo cartagena &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/vulcao-totumo-cartagena/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 06 Dec 2017 17:36:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>vulcão totumo cartagena &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cartagena das Índias &#8211; Colômbia</title>
+		<link>/cartagena-das-indias-colombia/</link>
+					<comments>/cartagena-das-indias-colombia/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2015 04:20:28 +0000</pubDate>
+				<category><![CDATA[Colômbia]]></category>
+		<category><![CDATA[3 dias em cartagena]]></category>
+		<category><![CDATA[4 dias em Cartagena]]></category>
+		<category><![CDATA[bocagrande e bocachica]]></category>
+		<category><![CDATA[Botero]]></category>
+		<category><![CDATA[Bóvedas de Santa Clara]]></category>
+		<category><![CDATA[café del mar cartagena]]></category>
+		<category><![CDATA[câmbio em cartagena]]></category>
+		<category><![CDATA[Cartagena]]></category>
+		<category><![CDATA[Cartagena de Indias]]></category>
+		<category><![CDATA[Cartagena: o que fazer]]></category>
+		<category><![CDATA[cartagena:onde comer]]></category>
+		<category><![CDATA[casa gabriel garcía márquez em cartagena]]></category>
+		<category><![CDATA[casas de varandas floridas cartagena]]></category>
+		<category><![CDATA[casas espanholas cartagena]]></category>
+		<category><![CDATA[centro antigo cartagena]]></category>
+		<category><![CDATA[cidade amuralhada cartagena]]></category>
+		<category><![CDATA[dez dias na colômbia]]></category>
+		<category><![CDATA[getsemaní]]></category>
+		<category><![CDATA[Hotel Makondo]]></category>
+		<category><![CDATA[Hotel Santa Clara]]></category>
+		<category><![CDATA[la mujer reclinada]]></category>
+		<category><![CDATA[limonada com coco]]></category>
+		<category><![CDATA[muralha cartagena]]></category>
+		<category><![CDATA[passeio de lancha cartagena]]></category>
+		<category><![CDATA[playa blanca]]></category>
+		<category><![CDATA[plaza bolívar]]></category>
+		<category><![CDATA[plaza de la aduana]]></category>
+		<category><![CDATA[plaza fernández de madrid]]></category>
+		<category><![CDATA[plaza san pedro claver]]></category>
+		<category><![CDATA[plaza santo domingo]]></category>
+		<category><![CDATA[praias cartagena]]></category>
+		<category><![CDATA[restaurante juan de dios cartagena]]></category>
+		<category><![CDATA[restaurante la bruschetería cartagena]]></category>
+		<category><![CDATA[roteiro colômbia 10 dias]]></category>
+		<category><![CDATA[Roteiro Gabriel García Márquez]]></category>
+		<category><![CDATA[roteiro gabriel garcía márquez cartagena]]></category>
+		<category><![CDATA[San Pedro de Majagua]]></category>
+		<category><![CDATA[torre del reloj]]></category>
+		<category><![CDATA[volcán totumo]]></category>
+		<category><![CDATA[vulcão totumo cartagena]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4710</guid>
+
+					<description><![CDATA[Este roteiro faz parte de 10 dias na Colômbia. Adoramos Cartagena, ¡muy hermosa! Mesmo estando melados durante boa parte do tempo por causa do calorsh. Por isso batemos ponto todo final de tarde no Café del Mar. Já conto! Onde &#8230; <a href="/cartagena-das-indias-colombia/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/cartagena-das-indias-colombia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4710</post-id>	</item>
+	</channel>
+</rss>

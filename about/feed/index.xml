@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Quem escreve	</title>
+	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 10 Apr 2023 18:50:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Por: Colina Coralina		</title>
+		<link>/about/#comment-171</link>
+
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Thu, 25 Jul 2019 19:29:35 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?page_id=1#comment-171</guid>
+
+					<description><![CDATA[Em resposta a &lt;a href=&quot;/about/#comment-170&quot;&gt;Larissa&lt;/a&gt;.
+
+Oi Larissa, vou te responder por email.]]></description>
+			<content:encoded><![CDATA[<p>Em resposta a <a href="/about/#comment-170">Larissa</a>.</p>
+<p>Oi Larissa, vou te responder por email.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Larissa		</title>
+		<link>/about/#comment-170</link>
+
+		<dc:creator><![CDATA[Larissa]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2019 05:45:25 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?page_id=1#comment-170</guid>
+
+					<description><![CDATA[Olá, 
+Acabo de ler o seu post sobre o curso de espanhol em Valladolid e se possível, gostaria que você me desse um feedback sobre a experiência. Tenho 22 anos e acabo de receber um email afirmando que também ganhei a bolsa. 
+Espero que possa me ajudar, agradecida!]]></description>
+			<content:encoded><![CDATA[<p>Olá,<br />
+Acabo de ler o seu post sobre o curso de espanhol em Valladolid e se possível, gostaria que você me desse um feedback sobre a experiência. Tenho 22 anos e acabo de receber um email afirmando que também ganhei a bolsa.<br />
+Espero que possa me ajudar, agradecida!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Fabiana		</title>
+		<link>/about/#comment-2</link>
+
+		<dc:creator><![CDATA[Fabiana]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2013 21:06:48 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?page_id=1#comment-2</guid>
+
+					<description><![CDATA[Achei excelente a ideia.. As dicas de Caraiva são perfeitas!
+Eu e meu marido oferecemos opções de esporte e lazer em Caraiva, como aulas de kite surf, stand up paddle, passeios ecológicos e traslados para as praias do Espelho e Corumbau de lancha.
+Se tiver interesse em acrescentar estarei a disposição: ecocaraiva@gmail.com
+
+Fabiana]]></description>
+			<content:encoded><![CDATA[<p>Achei excelente a ideia.. As dicas de Caraiva são perfeitas!<br />
+Eu e meu marido oferecemos opções de esporte e lazer em Caraiva, como aulas de kite surf, stand up paddle, passeios ecológicos e traslados para as praias do Espelho e Corumbau de lancha.<br />
+Se tiver interesse em acrescentar estarei a disposição: <a href="mailto:ecocaraiva@gmail.com">ecocaraiva@gmail.com</a></p>
+<p>Fabiana</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

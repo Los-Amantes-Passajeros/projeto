@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Estátua Woody Allen &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/estatua-woody-allen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Tue, 24 Jul 2018 13:50:04 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Estátua Woody Allen &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Búzios &#8211; RJ</title>
+		<link>/buzios-rj/</link>
+					<comments>/buzios-rj/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2015 23:48:17 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[Búzios]]></category>
+		<category><![CDATA[casa para alugar geribá búzios]]></category>
+		<category><![CDATA[Cigalon]]></category>
+		<category><![CDATA[Corpus Christi em Búzios]]></category>
+		<category><![CDATA[Eden Beach]]></category>
+		<category><![CDATA[Estátua Woody Allen]]></category>
+		<category><![CDATA[Gran cine Bardot]]></category>
+		<category><![CDATA[Hotel Serena]]></category>
+		<category><![CDATA[Nossa Senhora Desatadora de Nós]]></category>
+		<category><![CDATA[Olho de Boi]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4722</guid>
+
+					<description><![CDATA[Armação dos Búzios, um charmoso e bem cuidado balneário na Região dos Lagos do Rio de Janeiro, cresceu e sofisticou-se tanto, que sua população saltou de 7 mil para 30 mil habitantes. Onde ficar: Ficamos hospedados no Serena, hotel boutique &#8230; <a href="/buzios-rj/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/buzios-rj/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4722</post-id>	</item>
+	</channel>
+</rss>

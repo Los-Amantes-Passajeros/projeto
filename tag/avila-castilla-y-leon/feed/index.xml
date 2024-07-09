@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ávila Castilla y León &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/avila-castilla-y-leon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 14 May 2018 14:15:08 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Ávila Castilla y León &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ávila &#8211; Espanha</title>
+		<link>/avila-espanha/</link>
+					<comments>/avila-espanha/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2016 21:43:10 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[Ávila Castilla y León]]></category>
+		<category><![CDATA[Ávila cidade amuralhada]]></category>
+		<category><![CDATA[Ávila patrimônio da jumanidade]]></category>
+		<category><![CDATA[basílilica em Ávila]]></category>
+		<category><![CDATA[Bate e volta Ávila de Valladolid]]></category>
+		<category><![CDATA[catedral de Ávila]]></category>
+		<category><![CDATA[cinco coisas pra fazer em Málaga]]></category>
+		<category><![CDATA[indo de trem pra Ávila]]></category>
+		<category><![CDATA[muralha de Ávila]]></category>
+		<category><![CDATA[o que fazer em Ávila]]></category>
+		<category><![CDATA[onde e o que comer em Ávila]]></category>
+		<category><![CDATA[Um dia em Ávila]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4698</guid>
+
+					<description><![CDATA[Mais uma representante da região de Castilla y León, Ávila é uma cidade amuralhada, declarada pela UNESCO Cidade Patrimônio da Humanidade em 1985. Conhecida também como Ciudad de los Caballeros é  a mais alta da província, com 1.130 m de &#8230; <a href="/avila-espanha/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/avila-espanha/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4698</post-id>	</item>
+	</channel>
+</rss>

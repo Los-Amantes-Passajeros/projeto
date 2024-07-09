@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>informações detalhadas sobre Caraíva &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/informacoes-detalhadas-sobre-caraiva/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 28 Apr 2021 17:29:45 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>informações detalhadas sobre Caraíva &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Caraíva e arredores: o que fazer</title>
+		<link>/caraiva-e-arredores-ba/</link>
+					<comments>/caraiva-e-arredores-ba/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Wed, 28 Apr 2021 15:35:36 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[Arraial d´Ajuda]]></category>
+		<category><![CDATA[Bahia]]></category>
+		<category><![CDATA[Caraíva]]></category>
+		<category><![CDATA[caraíva e arredores o que fazer onde ficar onde comer]]></category>
+		<category><![CDATA[informações detalhadas sobre Caraíva]]></category>
+		<category><![CDATA[o melhor post sobre Caraíva]]></category>
+		<category><![CDATA[Ponta do Corumbau]]></category>
+		<category><![CDATA[Porto Seguro]]></category>
+		<category><![CDATA[Praia do Espelho]]></category>
+		<category><![CDATA[Sul da Bahia]]></category>
+		<category><![CDATA[Trancoso]]></category>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=37</guid>
+
+					<description><![CDATA[*post atualizado em abr/21* Introdução: Caraíva fica no sul da Bahia, na Costa do Descobrimento, a 74 km de Porto Seguro (onde está o aeroporto mais próximo), 69 km do Arraial d´Ajuda, 27 km de Trancoso e a 12 Km &#8230; <a href="/caraiva-e-arredores-ba/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/caraiva-e-arredores-ba/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">37</post-id>	</item>
+	</channel>
+</rss>

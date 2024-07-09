@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>casas de Neruda &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/casas-de-neruda/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Sun, 02 Apr 2023 23:12:31 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>casas de Neruda &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Santiago bate-e-volta: Isla Negra, Valparaíso (e Sebastiana) e vinícolas Emiliana e Matetic</title>
+		<link>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/</link>
+					<comments>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sun, 02 Apr 2023 22:51:58 +0000</pubDate>
+				<category><![CDATA[Chile]]></category>
+		<category><![CDATA[casas de Neruda]]></category>
+		<category><![CDATA[isla negra]]></category>
+		<category><![CDATA[maison italia hotel]]></category>
+		<category><![CDATA[passeios guiados arredores santiago]]></category>
+		<category><![CDATA[restaurante equilibrio vinícola]]></category>
+		<category><![CDATA[santiago bate e volta]]></category>
+		<category><![CDATA[turistik]]></category>
+		<category><![CDATA[Valparaíso]]></category>
+		<category><![CDATA[vinícola emiliana]]></category>
+		<category><![CDATA[Vinícola Matetic]]></category>
+		<category><![CDATA[vinícolas orgânicas e biodinâmicas]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=6700</guid>
+
+					<description><![CDATA[Chi Chi Chi Le Le Le!! Este post faz parte de Santiago capital, onde ficamos hospedadas no maravilhoso Hotel Maison Italia por 4 noites . Leia nosso post aqui. Estivemos aqui em ab/19 numa viagem mãe e filha! Para passeios &#8230; <a href="/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6700</post-id>	</item>
+	</channel>
+</rss>

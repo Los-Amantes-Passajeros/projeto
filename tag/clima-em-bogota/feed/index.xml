@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>clima em bogotá &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/clima-em-bogota/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 14 May 2018 15:09:46 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>clima em bogotá &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bogotá &#8211; Colômbia</title>
+		<link>/bogota-colombia/</link>
+					<comments>/bogota-colombia/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2015 21:34:08 +0000</pubDate>
+				<category><![CDATA[Colômbia]]></category>
+		<category><![CDATA[Aeropuerto El Dorado]]></category>
+		<category><![CDATA[almoço em Cajicá]]></category>
+		<category><![CDATA[Andrés Carne de Res]]></category>
+		<category><![CDATA[Bogotá o que fazer]]></category>
+		<category><![CDATA[Bogotá onde ficar]]></category>
+		<category><![CDATA[Cajicá]]></category>
+		<category><![CDATA[candelaria]]></category>
+		<category><![CDATA[Catedral de Sal: como chegar]]></category>
+		<category><![CDATA[cerro monteserrate]]></category>
+		<category><![CDATA[chorro de quevedo]]></category>
+		<category><![CDATA[clima em bogotá]]></category>
+		<category><![CDATA[como chegar a Zipaquirá]]></category>
+		<category><![CDATA[compras em Bogotá]]></category>
+		<category><![CDATA[DE trem a Zipaquirá]]></category>
+		<category><![CDATA[estación Usaquén]]></category>
+		<category><![CDATA[hacienda Santa Bárbara]]></category>
+		<category><![CDATA[manzana cultural]]></category>
+		<category><![CDATA[onde comer em Bogotá]]></category>
+		<category><![CDATA[ônibus ou trem à Catedral do Sal]]></category>
+		<category><![CDATA[parque 93]]></category>
+		<category><![CDATA[plaza bolívar]]></category>
+		<category><![CDATA[Quinta de Bolívar]]></category>
+		<category><![CDATA[roteiro candelaria]]></category>
+		<category><![CDATA[roteiro Colômbia dez dias]]></category>
+		<category><![CDATA[savana colombiana]]></category>
+		<category><![CDATA[Transmilenio]]></category>
+		<category><![CDATA[três dias em Bogotá]]></category>
+		<category><![CDATA[turistren]]></category>
+		<category><![CDATA[zona rosa bogotá]]></category>
+		<category><![CDATA[zona T]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4704</guid>
+
+					<description><![CDATA[Este roteiro faz parte de 10 dias na Colômbia. A maior cidade da Colômbia tem paisagem formada pela Cordilheira dos Andes e está a 2.500m acima do nível do mar, o que torna imprescindível uma blusa sempre a tiracolo para &#8230; <a href="/bogota-colombia/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/bogota-colombia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4704</post-id>	</item>
+	</channel>
+</rss>

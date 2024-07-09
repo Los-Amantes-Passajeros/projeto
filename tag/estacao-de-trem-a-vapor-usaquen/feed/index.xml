@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Estação de trem a vapor Usaquén &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/estacao-de-trem-a-vapor-usaquen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 06 Dec 2017 17:34:50 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Estação de trem a vapor Usaquén &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Colômbia: uma introdução</title>
+		<link>/colombia-uma-introducao/</link>
+					<comments>/colombia-uma-introducao/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2015 19:02:43 +0000</pubDate>
+				<category><![CDATA[Colômbia]]></category>
+		<category><![CDATA[10 dias na Colômbia]]></category>
+		<category><![CDATA[Arquitetura de Medellín]]></category>
+		<category><![CDATA[Bogotá]]></category>
+		<category><![CDATA[bolsas wayuu]]></category>
+		<category><![CDATA[Cartagena de Indias]]></category>
+		<category><![CDATA[Cartel de Medellín]]></category>
+		<category><![CDATA[El Peñol]]></category>
+		<category><![CDATA[Estação de trem a vapor Usaquén]]></category>
+		<category><![CDATA[FErnando Botero]]></category>
+		<category><![CDATA[gorjeta Colômbia]]></category>
+		<category><![CDATA[Guatapé]]></category>
+		<category><![CDATA[livros de Gabriel García Márquez]]></category>
+		<category><![CDATA[Medellín]]></category>
+		<category><![CDATA[O que comer na Colômbia]]></category>
+		<category><![CDATA[onde ficar na Colômbia]]></category>
+		<category><![CDATA[roteiro Colômbia]]></category>
+		<category><![CDATA[Roteiro Gabriel García Márquez]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4712</guid>
+
+					<description><![CDATA[Fizemos um roteiro de 10 dias na Colômbia em ago-set/15: Rio → Cartagena (4 noites) →  Medellín (3 noites)  → Bogotá (3 noites) → Rio A vontade era incluir San Andrés aí nesta rota, mas só tínhamos 10 dias de férias. Tem &#8230; <a href="/colombia-uma-introducao/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/colombia-uma-introducao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4712</post-id>	</item>
+	</channel>
+</rss>

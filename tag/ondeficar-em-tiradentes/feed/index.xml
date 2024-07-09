@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ondeficar em tiradentes &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/ondeficar-em-tiradentes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Thu, 22 Jul 2021 18:27:30 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>ondeficar em tiradentes &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tiradentes &#8211; MG</title>
+		<link>/tiradentes-mg/</link>
+					<comments>/tiradentes-mg/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 21:30:11 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[como chegar em tiradentes]]></category>
+		<category><![CDATA[final de semana em tiradentes]]></category>
+		<category><![CDATA[o que comer em tiradentes]]></category>
+		<category><![CDATA[o que fazer em tiradentes]]></category>
+		<category><![CDATA[ondeficar em tiradentes]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4620</guid>
+
+					<description><![CDATA[Aqui um post bem simples pra um finde! Estivemos em Tiradentes em nossas bodas de papel (1 ano de casados), em plena Semana Santa, março/13. Fomos de carro do Rio (333 km). Pra quem vai de BH são 196 km. &#8230; <a href="/tiradentes-mg/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/tiradentes-mg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4620</post-id>	</item>
+	</channel>
+</rss>

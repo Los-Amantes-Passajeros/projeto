@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mazapán &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/mazapan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Tue, 19 Nov 2019 02:10:37 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>mazapán &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Toledo &#8211; Espanha</title>
+		<link>/toledo-espanha/</link>
+					<comments>/toledo-espanha/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sun, 24 May 2015 22:11:17 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[arredores de madri]]></category>
+		<category><![CDATA[arte damasquina]]></category>
+		<category><![CDATA[bate e volta Toledo]]></category>
+		<category><![CDATA[cigarrales]]></category>
+		<category><![CDATA[convento santa izabel]]></category>
+		<category><![CDATA[damasquinado]]></category>
+		<category><![CDATA[escuela de traductores de toledo]]></category>
+		<category><![CDATA[espadas de toledo]]></category>
+		<category><![CDATA[madri e toledo]]></category>
+		<category><![CDATA[mazapán]]></category>
+		<category><![CDATA[parador]]></category>
+		<category><![CDATA[ponte de Alcántara]]></category>
+		<category><![CDATA[rio tejo]]></category>
+		<category><![CDATA[Toledo]]></category>
+		<category><![CDATA[um dia em toledo]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4724</guid>
+
+					<description><![CDATA[Este post faz parte do nosso roteiro 15 dias na Espanha. Ficamos em dúvida se uma vez em Madri, passaríamos um dia em Segóvia ou em Toledo. Como era aniversário dos meus sogros, deixamos eles escolherem e acabamos em Toledo. &#8230; <a href="/toledo-espanha/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/toledo-espanha/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4724</post-id>	</item>
+	</channel>
+</rss>

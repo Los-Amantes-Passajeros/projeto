@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>roteiro carro sul espanha &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/roteiro-carro-sul-espanha/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Sat, 04 May 2019 17:56:04 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>roteiro carro sul espanha &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pueblos Blancos &#8211; Espanha (de carro!)</title>
+		<link>/pueblos-blancos-espanha-de-carro/</link>
+					<comments>/pueblos-blancos-espanha-de-carro/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2015 04:50:07 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[andaluzia pueblos blancos]]></category>
+		<category><![CDATA[Arcos de la Frontera]]></category>
+		<category><![CDATA[Olvera]]></category>
+		<category><![CDATA[onde ficar arcos de la frontera]]></category>
+		<category><![CDATA[paradores espanha]]></category>
+		<category><![CDATA[queijo payoyo]]></category>
+		<category><![CDATA[Ronda]]></category>
+		<category><![CDATA[ronda como chegar]]></category>
+		<category><![CDATA[ronda o que fazer]]></category>
+		<category><![CDATA[roteiro carro pueblos bnalcos andalucia]]></category>
+		<category><![CDATA[roteiro carro sul espanha]]></category>
+		<category><![CDATA[roteiro de carro pueblos blancos]]></category>
+		<category><![CDATA[Setenil de las Bodegas]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4639</guid>
+
+					<description><![CDATA[Quarta parada: Pueblos Blancos (Este post faz parte do nosso roteiro 15 dias na Espanha!) Ou &#8220;los olivos sudan aceite&#8221;, pois é, você vai passar por paisagens repletas de oliveiras. Ouve isso e viaja comigo. Estivemos lá em Nov/14. Pueblos blancos &#8230; <a href="/pueblos-blancos-espanha-de-carro/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/pueblos-blancos-espanha-de-carro/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4639</post-id>	</item>
+	</channel>
+</rss>

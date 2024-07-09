@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>roteiro &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/roteiro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Fri, 13 Jul 2018 15:44:20 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>roteiro &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NYC DAY-BY-DAY: um roteiro non-stop de 6 dias</title>
+		<link>/nyc-day-by-day-um-roteiro-non-stop-de-6-dias/</link>
+					<comments>/nyc-day-by-day-um-roteiro-non-stop-de-6-dias/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2013 18:05:18 +0000</pubDate>
+				<category><![CDATA[EUA]]></category>
+		<category><![CDATA[NYC]]></category>
+		<category><![CDATA[o que fazer em nova york]]></category>
+		<category><![CDATA[onde comer nova york]]></category>
+		<category><![CDATA[onde ficar em nova york]]></category>
+		<category><![CDATA[roteiro]]></category>
+		<category><![CDATA[roteiro nova york]]></category>
+		<category><![CDATA[seis dias em nova york]]></category>
+		<category><![CDATA[seis noites em nova york]]></category>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=303</guid>
+
+					<description><![CDATA[Roteiro &#8220;o mundo vai acabar amanhã&#8221; saindo da Times Squares  (pois lá ficamos hospedados, no Belvedere Hotel, que recomendo: http://www.belvederehotelnyc.com/) DAY 1 &#8211; A pé do hotel pela 5TH AVENUE &#8211; ROCKFELLER CENTER/TOP OF THE ROCK (estava vazio porque era &#8230; <a href="/nyc-day-by-day-um-roteiro-non-stop-de-6-dias/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/nyc-day-by-day-um-roteiro-non-stop-de-6-dias/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">303</post-id>	</item>
+		<item>
+		<title>Roteiro Espanha passando por Portugal e Marrocos</title>
+		<link>/andaluzia-espanha/</link>
+					<comments>/andaluzia-espanha/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 18:53:29 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[Andaluzia]]></category>
+		<category><![CDATA[Antequera]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Bilbao]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Córdoba]]></category>
+		<category><![CDATA[flamenco]]></category>
+		<category><![CDATA[Frigiliana]]></category>
+		<category><![CDATA[Granada]]></category>
+		<category><![CDATA[Madrid]]></category>
+		<category><![CDATA[Málaga]]></category>
+		<category><![CDATA[Marbella]]></category>
+		<category><![CDATA[Marrocos]]></category>
+		<category><![CDATA[Nerja]]></category>
+		<category><![CDATA[Pampona]]></category>
+		<category><![CDATA[Portugal]]></category>
+		<category><![CDATA[Ronda]]></category>
+		<category><![CDATA[roteiro]]></category>
+		<category><![CDATA[roteiro andaluzia e marrocos]]></category>
+		<category><![CDATA[roteiro espanha marrocos e portugal]]></category>
+		<category><![CDATA[San Sebastián]]></category>
+		<category><![CDATA[Santiago de Compostela]]></category>
+		<category><![CDATA[Sevilla]]></category>
+		<category><![CDATA[Sul da Espanha]]></category>
+		<category><![CDATA[Tarifa]]></category>
+		<category><![CDATA[tempo entre costuras]]></category>
+		<category><![CDATA[Torremolinos]]></category>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=115</guid>
+
+					<description><![CDATA[Andalucía é a região sul da Espanha, é o berço do flamenco e também conhecida como a Costa do Sol, pelo seu extenso litoral de Oceano Atlântico e Mar Mediterrâneo. Belíssima região de arquitetura moura devido à invasão árabe por &#8230; <a href="/andaluzia-espanha/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/andaluzia-espanha/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">115</post-id>	</item>
+	</channel>
+</rss>

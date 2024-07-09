@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Conceição do Ibitipoca &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/conceicao-do-ibitipoca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 12 Jun 2017 03:35:56 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Conceição do Ibitipoca &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ibitipoca &#8211; MG: introdução</title>
+		<link>/ibitipoca-mg-introducao/</link>
+					<comments>/ibitipoca-mg-introducao/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2015 00:58:01 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[Circuito das Águas]]></category>
+		<category><![CDATA[Conceição do Ibitipoca]]></category>
+		<category><![CDATA[Janela do Céu]]></category>
+		<category><![CDATA[Onde comer em Ibitipoca]]></category>
+		<category><![CDATA[Parque Estadual do Ibitipoca]]></category>
+		<category><![CDATA[Pico do Pião]]></category>
+		<category><![CDATA[Ponte de Pedra]]></category>
+		<category><![CDATA[Pousada Poente Ibitipoca]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4720</guid>
+
+					<description><![CDATA[Estivemos duas vezes em Conceição do Ibitipoca, durante feriados, em mai/12 e abr/15. E ficamos hospedados no mesmo local, a Pousada Poente: http://www.pousadapoenteibitipoca.com/ [Grupo 1 e Grupo 2] Localizada na Zona da Mata e distrito de Lima Duarte, a pequena &#8230; <a href="/ibitipoca-mg-introducao/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/ibitipoca-mg-introducao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4720</post-id>	</item>
+	</channel>
+</rss>

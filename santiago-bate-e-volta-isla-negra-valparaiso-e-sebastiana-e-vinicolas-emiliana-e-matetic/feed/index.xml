@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Santiago bate-e-volta: Isla Negra, Valparaíso (e Sebastiana) e vinícolas Emiliana e Matetic	</title>
+	<atom:link href="/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/feed/" rel="self" type="application/rss+xml" />
+	<link>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Sun, 02 Apr 2023 23:12:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Por: Natalie Soares		</title>
+		<link>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/#comment-175</link>
+
+		<dc:creator><![CDATA[Natalie Soares]]></dc:creator>
+		<pubDate>Mon, 05 Aug 2019 11:21:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=6700#comment-175</guid>
+
+					<description><![CDATA[Obrigada por indicar o Sundaycooks :D]]></description>
+			<content:encoded><![CDATA[<p>Obrigada por indicar o Sundaycooks 😀</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Heloisa S Machado		</title>
+		<link>/santiago-bate-e-volta-isla-negra-valparaiso-e-sebastiana-e-vinicolas-emiliana-e-matetic/#comment-174</link>
+
+		<dc:creator><![CDATA[Heloisa S Machado]]></dc:creator>
+		<pubDate>Sun, 04 Aug 2019 16:42:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=6700#comment-174</guid>
+
+					<description><![CDATA[Heloisa]]></description>
+			<content:encoded><![CDATA[<p>Heloisa</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

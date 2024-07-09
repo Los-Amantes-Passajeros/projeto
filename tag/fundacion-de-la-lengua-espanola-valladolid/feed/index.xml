@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>fundación de la lengua española valladolid &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/fundacion-de-la-lengua-espanola-valladolid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 30 Oct 2019 15:29:12 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>fundación de la lengua española valladolid &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Valladolid &#8211; Espanha</title>
+		<link>/valladolid-espanha/</link>
+					<comments>/valladolid-espanha/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2016 03:57:08 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[15 DIAS EM VALLADOLID]]></category>
+		<category><![CDATA[bate e voltas Valladolid]]></category>
+		<category><![CDATA[bolsa de espanhol]]></category>
+		<category><![CDATA[estudar espanhol em Valladolid]]></category>
+		<category><![CDATA[fundación de la lengua española valladolid]]></category>
+		<category><![CDATA[o que fazer Valladolid]]></category>
+		<category><![CDATA[onde comer Valladolid]]></category>
+		<category><![CDATA[onde ficar Valladolid]]></category>
+		<category><![CDATA[VALLADOLID]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4700</guid>
+
+					<description><![CDATA[[Este roteiro faz parte de Espanha 15 dias: Valladolid (12 noites) + bate-e-volta para Ávila, Salamanca, Simancas , Segóvia e uma noite em Madrid] Valladolid, capital de Castilla y León, com cerca de 300 mil habitantes também é conhecida pelos &#8230; <a href="/valladolid-espanha/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/valladolid-espanha/feed/</wfw:commentRss>
+			<slash:comments>17</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4700</post-id>	</item>
+	</channel>
+</rss>

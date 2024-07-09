@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Roteiro Espanha 15 dias &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/roteiro-espanha-15-dias/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Thu, 12 Mar 2020 19:58:48 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Roteiro Espanha 15 dias &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Barcelona &#8211; Espanha</title>
+		<link>/barcelona-espanha/</link>
+					<comments>/barcelona-espanha/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2015 02:20:38 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[Bairro Gótico]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Barceloneta]]></category>
+		<category><![CDATA[Caracoles]]></category>
+		<category><![CDATA[Casa Batlló]]></category>
+		<category><![CDATA[Casa Millá]]></category>
+		<category><![CDATA[Casa Vicenç]]></category>
+		<category><![CDATA[Catedral Gótica]]></category>
+		<category><![CDATA[Fonte Mágica]]></category>
+		<category><![CDATA[Ilha da discórdia]]></category>
+		<category><![CDATA[Imprevist]]></category>
+		<category><![CDATA[Montju:ic]]></category>
+		<category><![CDATA[Museu Picasso]]></category>
+		<category><![CDATA[Palau de la Música Catalana]]></category>
+		<category><![CDATA[Parc Guell]]></category>
+		<category><![CDATA[Pedreira]]></category>
+		<category><![CDATA[Port Vell]]></category>
+		<category><![CDATA[Ramblas]]></category>
+		<category><![CDATA[Raval]]></category>
+		<category><![CDATA[Roteiro Espanha]]></category>
+		<category><![CDATA[Roteiro Espanha 15 dias]]></category>
+		<category><![CDATA[Sagrada Família]]></category>
+		<category><![CDATA[Teleférico]]></category>
+		<category><![CDATA[Tempranillo]]></category>
+		<category><![CDATA[tibidabo]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4633</guid>
+
+					<description><![CDATA[Primeira parada: Barcelona! Este post faz parte de um roteiro de 15 dias viajando na Espanha. Ouve junto aqui e viaja comigo! Barcelona é  capital da Catalunha, região leste da Espanha cujo idioma oficial é o catalán. O castellano é &#8230; <a href="/barcelona-espanha/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/barcelona-espanha/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4633</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tango buenos aires &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/tango-buenos-aires/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 14 May 2018 13:56:58 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>tango buenos aires &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>¡Mi Buenos Aires querido! (post atualizado)</title>
+		<link>/mi-buenos-aires-querido/</link>
+					<comments>/mi-buenos-aires-querido/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sat, 01 Jul 2017 01:11:59 +0000</pubDate>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[bate e volta a colonia do sacramento]]></category>
+		<category><![CDATA[buenos aires onde ficar]]></category>
+		<category><![CDATA[Buenos Aires; Argentina; San Telmo; El Filo; Caminito; Floralis Genérica; Mafalda; Puerto Madero; Desnivel; Tango: Maldita Milonga; América do Sul]]></category>
+		<category><![CDATA[caravan hostel boutique]]></category>
+		<category><![CDATA[carnes em espanhol]]></category>
+		<category><![CDATA[cartunistas buenos aires]]></category>
+		<category><![CDATA[choripán]]></category>
+		<category><![CDATA[el rosedal]]></category>
+		<category><![CDATA[filmes argentinos]]></category>
+		<category><![CDATA[freddo]]></category>
+		<category><![CDATA[glossário espanhol churrasco]]></category>
+		<category><![CDATA[livrarias em buenos aires]]></category>
+		<category><![CDATA[manzana de las luces]]></category>
+		<category><![CDATA[milonga buenos aires]]></category>
+		<category><![CDATA[mora veron]]></category>
+		<category><![CDATA[museu do humor buenso aires]]></category>
+		<category><![CDATA[o que fazer em buenos aires]]></category>
+		<category><![CDATA[onde comer buenos aires]]></category>
+		<category><![CDATA[onde ficar buenos aires]]></category>
+		<category><![CDATA[palemro]]></category>
+		<category><![CDATA[palermo soho]]></category>
+		<category><![CDATA[recoleta]]></category>
+		<category><![CDATA[tango buenos aires]]></category>
+		<category><![CDATA[trÊs dias em buenos aires]]></category>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=190</guid>
+
+					<description><![CDATA[Amo esta cidade!!♥ Já fui 3x e iria de novo! Antes de tudo, sempre que entrar num táxi, dê o endereço indicando a esquina. As ruas lá são bem compridas, por isso. Onde ficar: Recoleta, Palermo, Centro, San Telmo! Dizem &#8230; <a href="/mi-buenos-aires-querido/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/mi-buenos-aires-querido/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">190</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>o que levar &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/o-que-levar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Fri, 07 Dec 2018 20:22:07 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>o que levar &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Deserto do Atacama – Chile</title>
+		<link>/deserto-do-atacama-chile/</link>
+					<comments>/deserto-do-atacama-chile/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2018 19:06:24 +0000</pubDate>
+				<category><![CDATA[Chile]]></category>
+		<category><![CDATA[calamo]]></category>
+		<category><![CDATA[deserto atacama o que fazer]]></category>
+		<category><![CDATA[o que levar]]></category>
+		<category><![CDATA[onde comer]]></category>
+		<category><![CDATA[quantos dias]]></category>
+		<category><![CDATA[san pedro de atacama]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=6356</guid>
+
+					<description><![CDATA[Post escrito por minha amiga Lia Frota E Lopes. Viagem feita em abr/2017.        Todas as fotos são de sua autoria. Voe pela Latam até Calama. O voo do Rio faz conexão em Santiago. Mamão com açúcar! Fazendo as malas! O &#8230; <a href="/deserto-do-atacama-chile/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/deserto-do-atacama-chile/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6356</post-id>	</item>
+	</channel>
+</rss>

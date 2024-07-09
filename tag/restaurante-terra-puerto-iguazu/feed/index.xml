@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>restaurante terra puerto iguazú &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/restaurante-terra-puerto-iguazu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 14 May 2018 13:36:20 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>restaurante terra puerto iguazú &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cataratas: Foz do Iguaçu (Brasil) + Puerto Iguazú (Argentina) e uma voltinha no Paraguai</title>
+		<link>/cataratas-foz-do-iguacu-brasil-puerto-iguazu-argentina-e-uma-voltinha-no-paraguai/</link>
+					<comments>/cataratas-foz-do-iguacu-brasil-puerto-iguazu-argentina-e-uma-voltinha-no-paraguai/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 29 Sep 2017 18:46:12 +0000</pubDate>
+				<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[Paraguai]]></category>
+		<category><![CDATA[4 dias nas cataratas]]></category>
+		<category><![CDATA[acqua]]></category>
+		<category><![CDATA[cataratas do iguaçu]]></category>
+		<category><![CDATA[circuito especial itaipu]]></category>
+		<category><![CDATA[circuito inferior]]></category>
+		<category><![CDATA[circuito superior]]></category>
+		<category><![CDATA[circuitos parque argentino]]></category>
+		<category><![CDATA[ciudad de este]]></category>
+		<category><![CDATA[compras no paraguay]]></category>
+		<category><![CDATA[dois dias parque argentino dois dias parque brasileiro]]></category>
+		<category><![CDATA[foz do iguaçu]]></category>
+		<category><![CDATA[garganta do diabo]]></category>
+		<category><![CDATA[itaipu]]></category>
+		<category><![CDATA[itaipu binacional]]></category>
+		<category><![CDATA[la mafia trattoria]]></category>
+		<category><![CDATA[marco das três fronteiras]]></category>
+		<category><![CDATA[monalisa paraguai]]></category>
+		<category><![CDATA[O post mais completo e detalhado que você já leu]]></category>
+		<category><![CDATA[o que fazer foz do iguaçu]]></category>
+		<category><![CDATA[o que fazer puerto iguaçu]]></category>
+		<category><![CDATA[onde comer foz do iguaçu]]></category>
+		<category><![CDATA[onde comer paraguai]]></category>
+		<category><![CDATA[onde comer puerto iguazú]]></category>
+		<category><![CDATA[onde comprar eletronicos paraguay]]></category>
+		<category><![CDATA[onde ficar cataratas]]></category>
+		<category><![CDATA[panoramic hotel puerto iguazú]]></category>
+		<category><![CDATA[parque das aves]]></category>
+		<category><![CDATA[Parque Nacional do Iguaçu]]></category>
+		<category><![CDATA[Parque Nacional Iguazú]]></category>
+		<category><![CDATA[ponte da amizade]]></category>
+		<category><![CDATA[puerto iguazú]]></category>
+		<category><![CDATA[quantos dias nas cataratas]]></category>
+		<category><![CDATA[restaurante terra puerto iguazú]]></category>
+		<category><![CDATA[rio iguaçu]]></category>
+		<category><![CDATA[rio paraná]]></category>
+		<category><![CDATA[roteiro completo cataratas]]></category>
+		<category><![CDATA[roteiro completo cataratas do iguaçu]]></category>
+		<category><![CDATA[roteiro quatro dias cataratas]]></category>
+		<category><![CDATA[táxi puerto iguazú e foz do iguaçu]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5117</guid>
+
+					<description><![CDATA[O post mais completo e detalhado que você já leu! Estivemos nas Cataratas em set/17 por 4 dias, sendo 2 noites no lado brasileiro, em Foz do Iguaçu, e as outras duas noites, em Puerto Iguazú, cidadezinha que abriga o &#8230; <a href="/cataratas-foz-do-iguacu-brasil-puerto-iguazu-argentina-e-uma-voltinha-no-paraguai/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/cataratas-foz-do-iguacu-brasil-puerto-iguazu-argentina-e-uma-voltinha-no-paraguai/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5117</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>escadaria selarón; arcos da lapa &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/escadaria-selaron-arcos-da-lapa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Fri, 06 Dec 2019 13:27:06 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>escadaria selarón; arcos da lapa &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Santa Teresa e Arcos da Lapa- RJ</title>
+		<link>/santa-tereza-e-arcos-da-lapa-rj/</link>
+					<comments>/santa-tereza-e-arcos-da-lapa-rj/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sat, 02 Nov 2019 21:17:39 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[bondinho santa tereza]]></category>
+		<category><![CDATA[escadaria selarón; arcos da lapa]]></category>
+		<category><![CDATA[Santa tereza bairro boêmio rio de janeiro]]></category>
+		<category><![CDATA[santa tereza o que fazer]]></category>
+		<category><![CDATA[santa tereza onde comer]]></category>
+		<category><![CDATA[santa tereza onde ficar]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5647</guid>
+
+					<description><![CDATA[Taí um passeio imperdível do Rio que adoro fazer &#8211; e o faço com frequência! Santa Teresa, bairro antigo de ladeiras, fica no alto da cidade e próximo ao centro, e é um reduto boêmio carioca, repleto de bares e &#8230; <a href="/santa-tereza-e-arcos-da-lapa-rj/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/santa-tereza-e-arcos-da-lapa-rj/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5647</post-id>	</item>
+	</channel>
+</rss>

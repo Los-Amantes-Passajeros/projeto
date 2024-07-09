@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Canela &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/canela/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Fri, 02 Nov 2018 18:37:50 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Canela &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Canela, Gramado e Porto Alegre &#8211; RS</title>
+		<link>/gramado-e-porto-alegre-rs/</link>
+					<comments>/gramado-e-porto-alegre-rs/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Thu, 12 Apr 2018 18:12:33 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[bairro moinhos porto alegre]]></category>
+		<category><![CDATA[Canela]]></category>
+		<category><![CDATA[catedral de pedra]]></category>
+		<category><![CDATA[gramado]]></category>
+		<category><![CDATA[ibis moinhos porto alegre]]></category>
+		<category><![CDATA[natal luz gramado]]></category>
+		<category><![CDATA[o que fazer canela]]></category>
+		<category><![CDATA[O que fazer Gramado]]></category>
+		<category><![CDATA[O que fazer Porto Alegre]]></category>
+		<category><![CDATA[onde comer em gramado]]></category>
+		<category><![CDATA[onde comer em porto alegre]]></category>
+		<category><![CDATA[Onde ficar Gramado]]></category>
+		<category><![CDATA[Onde ficar Porto Alegre]]></category>
+		<category><![CDATA[porto alegre]]></category>
+		<category><![CDATA[porto alegre e gramado]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5460</guid>
+
+					<description><![CDATA[Estive algumas vezes em Porto Alegre, Gramado, Canela &#8211; e até em Torres, 1x apenas, um charmosinho balneário do Rio Grande do Sul – entre 1997 e recentemente no Natal Luz, em dez/17. &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#8230; <a href="/gramado-e-porto-alegre-rs/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/gramado-e-porto-alegre-rs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5460</post-id>	</item>
+	</channel>
+</rss>

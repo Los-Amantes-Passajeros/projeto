@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>onde comer em Cavalcante &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/onde-comer-em-cavalcante/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Mon, 14 May 2018 14:32:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>onde comer em Cavalcante &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chapada dos Veadeiros &#8211; GO</title>
+		<link>/chapada-dos-veadeiros-go/</link>
+					<comments>/chapada-dos-veadeiros-go/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 08 Jan 2016 03:56:42 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[base concept hotel]]></category>
+		<category><![CDATA[Canela de Ema]]></category>
+		<category><![CDATA[casa para alugar em Cavalcante]]></category>
+		<category><![CDATA[Cavalcante]]></category>
+		<category><![CDATA[cerrado chapada dos veadeiros]]></category>
+		<category><![CDATA[Chapada dos Veadeiros]]></category>
+		<category><![CDATA[como chegar na chapada dos veadeiros]]></category>
+		<category><![CDATA[guia na chapada dos veadeiros]]></category>
+		<category><![CDATA[o que fazer em Cavalcante]]></category>
+		<category><![CDATA[o que fazer na Chapada dos Veadeiros]]></category>
+		<category><![CDATA[onde comer em Cavalcante]]></category>
+		<category><![CDATA[onde ficar em Cavalcante]]></category>
+		<category><![CDATA[onde ficar na Chapada dos Veadeiros]]></category>
+		<category><![CDATA[Quatro dias na Chapada dos Veadeiros - GO]]></category>
+		<category><![CDATA[trilha rio prata chapada]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4702</guid>
+
+					<description><![CDATA[Estivemos na Chapada por 4 dias durante o feriado de 12 de outubro, em 2015. Pousamos no aeroporto de Brasília e alugamos um carro.                           [O cerrado por &#8230; <a href="/chapada-dos-veadeiros-go/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/chapada-dos-veadeiros-go/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4702</post-id>	</item>
+	</channel>
+</rss>

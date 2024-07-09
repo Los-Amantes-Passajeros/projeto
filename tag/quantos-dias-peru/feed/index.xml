@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>quantos dias peru &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/quantos-dias-peru/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 19 Jun 2019 01:03:50 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>quantos dias peru &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sete noites no Peru</title>
+		<link>/sete-noites-no-peru/</link>
+					<comments>/sete-noites-no-peru/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Thu, 13 Sep 2018 19:41:01 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[aguas calientes]]></category>
+		<category><![CDATA[chincheros]]></category>
+		<category><![CDATA[cusco]]></category>
+		<category><![CDATA[guia machu picchu]]></category>
+		<category><![CDATA[guia valle sagrado]]></category>
+		<category><![CDATA[lima]]></category>
+		<category><![CDATA[miraflores]]></category>
+		<category><![CDATA[moray]]></category>
+		<category><![CDATA[o que comer peru]]></category>
+		<category><![CDATA[o que fazer peru]]></category>
+		<category><![CDATA[ollantaytambo]]></category>
+		<category><![CDATA[peru onde ficar]]></category>
+		<category><![CDATA[quantos dias peru]]></category>
+		<category><![CDATA[salinas de maras]]></category>
+		<category><![CDATA[sete noites peru]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5735</guid>
+
+					<description><![CDATA[Nosso roteiro foi:                   Rio → Lima (2N)  → Cusco (1N) →  Valle Sagrado/Ollantaytambo (1N) → Aguas Calientes/Machu Picchu (1N) → Cusco (2N) → Rio (totalizando 7 noites) Voando Avianca, voo direto do Rio para &#8230; <a href="/sete-noites-no-peru/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/sete-noites-no-peru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5735</post-id>	</item>
+	</channel>
+</rss>

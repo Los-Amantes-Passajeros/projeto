@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>onde comer madrid &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/onde-comer-madrid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 07 Jul 2021 13:09:48 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>onde comer madrid &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Madri: o que fazer</title>
+		<link>/o-madri-o-que-fazer/</link>
+					<comments>/o-madri-o-que-fazer/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 22 May 2015 03:11:51 +0000</pubDate>
+				<category><![CDATA[Espanha]]></category>
+		<category><![CDATA[casa de cervantes e lope de vega madri]]></category>
+		<category><![CDATA[círculo de bellas artes madri]]></category>
+		<category><![CDATA[curso de culinária Madri Soy Chef]]></category>
+		<category><![CDATA[el rastro]]></category>
+		<category><![CDATA[Filmes em Madri]]></category>
+		<category><![CDATA[fuente cibeles]]></category>
+		<category><![CDATA[la chinata presentes]]></category>
+		<category><![CDATA[monasterio de las descalzas]]></category>
+		<category><![CDATA[movida madrileña madrilenha]]></category>
+		<category><![CDATA[museo sorolla]]></category>
+		<category><![CDATA[museu Thyssen-Bornemiza]]></category>
+		<category><![CDATA[museus Madri]]></category>
+		<category><![CDATA[O que fazer em madri]]></category>
+		<category><![CDATA[o urso e o madronho el oso y el madroño]]></category>
+		<category><![CDATA[onde comer madrid]]></category>
+		<category><![CDATA[palacio real madrid]]></category>
+		<category><![CDATA[parque del retiro]]></category>
+		<category><![CDATA[plaza de espanha]]></category>
+		<category><![CDATA[plaza mayor]]></category>
+		<category><![CDATA[Reina Sofía]]></category>
+		<category><![CDATA[sol madri]]></category>
+		<category><![CDATA[táxi Barajas Madri]]></category>
+		<category><![CDATA[templo debot]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=4645</guid>
+
+					<description><![CDATA[O que fazer na capital espanhola: Estive 3x em Madri, a penúltima em nov/14 e a última, em dez/15. Fiquei no Room Mate Laura e super indico! Fica praticamente em frente ao Monasterio de las Descalzas e pertinho do Sol. &#8230; <a href="/o-madri-o-que-fazer/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/o-madri-o-que-fazer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4645</post-id>	</item>
+	</channel>
+</rss>

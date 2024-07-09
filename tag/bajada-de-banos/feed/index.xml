@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>bajada de baños &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/bajada-de-banos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Fri, 07 Dec 2018 20:21:18 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>bajada de baños &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lima &#8211; Peru</title>
+		<link>/lima-peru/</link>
+					<comments>/lima-peru/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Tue, 30 Oct 2018 19:02:59 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[bajada de baños]]></category>
+		<category><![CDATA[barra chalaca]]></category>
+		<category><![CDATA[barranco]]></category>
+		<category><![CDATA[bosque el olivar]]></category>
+		<category><![CDATA[larcomar shopping]]></category>
+		<category><![CDATA[lima ife hotel]]></category>
+		<category><![CDATA[lima onde comer]]></category>
+		<category><![CDATA[lima onde ficar]]></category>
+		<category><![CDATA[lima quantos dias ficar]]></category>
+		<category><![CDATA[malecón miraflores]]></category>
+		<category><![CDATA[mario vargas llosa]]></category>
+		<category><![CDATA[mirabici]]></category>
+		<category><![CDATA[museu mate]]></category>
+		<category><![CDATA[paragliding]]></category>
+		<category><![CDATA[parque del amor]]></category>
+		<category><![CDATA[ponte dos suspiros]]></category>
+		<category><![CDATA[puente de los suspiros]]></category>
+		<category><![CDATA[rosa nautica]]></category>
+		<category><![CDATA[san isidro]]></category>
+		<category><![CDATA[songorocosongo]]></category>
+		<category><![CDATA[surf]]></category>
+		<category><![CDATA[três dias em lima]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5740</guid>
+
+					<description><![CDATA[Este post faz parte de 7 noites no Peru: Lima + Cusco + Valle Sagrado + Machu Picchu Lima foi uma deliciosa surpresa, adoramos! Vale a pena passar 3 dias na cidade (por 2 ou 3 noites). Estivemos aqui em &#8230; <a href="/lima-peru/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/lima-peru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5740</post-id>	</item>
+	</channel>
+</rss>

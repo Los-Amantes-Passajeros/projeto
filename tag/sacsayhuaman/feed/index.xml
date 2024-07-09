@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sacsayhuamán &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/sacsayhuaman/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Thu, 10 Jan 2019 12:56:02 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>Sacsayhuamán &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cusco &#8211; Peru</title>
+		<link>/cusco-peru/</link>
+					<comments>/cusco-peru/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 07 Dec 2018 19:58:53 +0000</pubDate>
+				<category><![CDATA[Peru]]></category>
+		<category><![CDATA[carpe diem]]></category>
+		<category><![CDATA[cusco onde comer]]></category>
+		<category><![CDATA[cusco onde comprar]]></category>
+		<category><![CDATA[cusco onde ficar]]></category>
+		<category><![CDATA[cusco passeios vale sagrado]]></category>
+		<category><![CDATA[cusco quantos dias]]></category>
+		<category><![CDATA[greens]]></category>
+		<category><![CDATA[guia cusco]]></category>
+		<category><![CDATA[hotel unaytambo]]></category>
+		<category><![CDATA[incanto]]></category>
+		<category><![CDATA[mercado san pedro]]></category>
+		<category><![CDATA[papacho´s]]></category>
+		<category><![CDATA[pedra de doze angulos]]></category>
+		<category><![CDATA[qoricacancha]]></category>
+		<category><![CDATA[Sacsayhuamán]]></category>
+		<category><![CDATA[taxista cusco]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=6055</guid>
+
+					<description><![CDATA[Este post faz parte de Sete Noites no Peru. Leia aqui. Estivemos aqui início de set/18 e ficamos no hotel Unaytambo Boutique Hotel que recomendamos muito. Simples e extremamente confortável, atendimento perfeito e discreto, super bem localizado. Em frente ao Qoricancha &#8230; <a href="/cusco-peru/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/cusco-peru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">6055</post-id>	</item>
+	</channel>
+</rss>

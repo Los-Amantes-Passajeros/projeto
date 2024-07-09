@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>arraial do cabo e búzios &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/arraial-do-cabo-e-buzios/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Tue, 14 Aug 2018 13:59:57 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>arraial do cabo e búzios &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Arraial do Cabo &#8211; RJ</title>
+		<link>/arraial-do-cabo-rj/</link>
+					<comments>/arraial-do-cabo-rj/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2018 13:25:57 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[arraial do cabo e búzios]]></category>
+		<category><![CDATA[arraial do cabo-RJ]]></category>
+		<category><![CDATA[don juan arraial do cabo]]></category>
+		<category><![CDATA[o que fazer em arraial do cabo]]></category>
+		<category><![CDATA[onde comer em arraial do cabo]]></category>
+		<category><![CDATA[onde fica r em arraial do cabo]]></category>
+		<category><![CDATA[passeiod e barco em arraial do cabo]]></category>
+		<category><![CDATA[quantos dias ficar em arraial do cabo]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5686</guid>
+
+					<description><![CDATA[Um roteiro detalhado, e super em conta, de 5 dias e 5 noites. (Viagem realizada em jun/18)                                                *Post escrito por minha irmã Ana Luiza Machado 1º dia &#8211; Chegada em Arraial do Cabo Como ir (saindo do Rio): Auto &#8230; <a href="/arraial-do-cabo-rj/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/arraial-do-cabo-rj/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5686</post-id>	</item>
+	</channel>
+</rss>

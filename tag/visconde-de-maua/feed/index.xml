@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>visconde de mauá &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/visconde-de-maua/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Thu, 06 May 2021 12:43:10 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>visconde de mauá &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Maromba/RJ e Maringá/MG</title>
+		<link>/marombarj-e-maringamg/</link>
+					<comments>/marombarj-e-maringamg/#respond</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Sun, 30 Apr 2017 03:52:30 +0000</pubDate>
+				<category><![CDATA[Brasil]]></category>
+		<category><![CDATA[maringá]]></category>
+		<category><![CDATA[maringá o que fazer]]></category>
+		<category><![CDATA[maringa onde comer]]></category>
+		<category><![CDATA[maromba]]></category>
+		<category><![CDATA[maromba onde ficar]]></category>
+		<category><![CDATA[pousada casa bonita]]></category>
+		<category><![CDATA[visconde de mauá]]></category>
+		<guid isPermaLink="false">https://losamantespasajeros.wordpress.com/?p=4341</guid>
+
+					<description><![CDATA[Essas duas cidades estão a 3 km de distância uma da outra, divididas apenas por uma pequenina ponte. Com menos de 10 passos você cruza de estado e em menos de 5 minutos vai do Rio às Minas Gerais.  Como &#8230; <a href="/marombarj-e-maringamg/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/marombarj-e-maringamg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4341</post-id>	</item>
+	</channel>
+</rss>

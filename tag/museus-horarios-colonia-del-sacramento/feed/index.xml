@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>museus horarios colonia del sacramento &#8211; Los amantes pasajeros</title>
+	<atom:link href="/tag/museus-horarios-colonia-del-sacramento/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Tue, 19 Jun 2018 13:20:57 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/05/cropped-80d2d6e421a107b0cf50ab628a2c166d-32x32.jpeg</url>
+	<title>museus horarios colonia del sacramento &#8211; Los amantes pasajeros</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Colônia do Sacramento &#8211; Uruguai</title>
+		<link>/colonia-do-sacramento-uruguai/</link>
+					<comments>/colonia-do-sacramento-uruguai/#comments</comments>
+		
+		<dc:creator><![CDATA[Colina Coralina]]></dc:creator>
+		<pubDate>Fri, 18 Aug 2017 15:31:05 +0000</pubDate>
+				<category><![CDATA[Uruguai]]></category>
+		<category><![CDATA[bate e volta colonia del sacramento]]></category>
+		<category><![CDATA[cambio em colonia del sacramento]]></category>
+		<category><![CDATA[como chegar em colonia dos acramento]]></category>
+		<category><![CDATA[dormir em colonia]]></category>
+		<category><![CDATA[lentas maravillas]]></category>
+		<category><![CDATA[museo del ferrocarril]]></category>
+		<category><![CDATA[museus horarios colonia del sacramento]]></category>
+		<category><![CDATA[o que fazer em colonia dos acramento]]></category>
+		<category><![CDATA[onde comer colonia do sacramento]]></category>
+		<category><![CDATA[onde ficar colonia do sacramento]]></category>
+		<category><![CDATA[pernoite em colonia vale a pena]]></category>
+		<category><![CDATA[qual moeda levar para colonia]]></category>
+		<category><![CDATA[um dia em colonia del sacramento]]></category>
+		<guid isPermaLink="false">http://www.losamantespasajeros.com.br/?p=5055</guid>
+
+					<description><![CDATA[Colonia del Sacramento: cidade patrimônio cultural da humanidade Estivemos aqui em jun/17. Este roteiro faz parte de Buenos Aires: o que fazer. Fizemos um bate-e-volta de Bs As, mas você também pode usar a cidade para um pitstop numa viagem &#8230; <a href="/colonia-do-sacramento-uruguai/">Continue lendo <span class="meta-nav">&#8594;</span></a>]]></description>
+		
+					<wfw:commentRss>/colonia-do-sacramento-uruguai/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5055</post-id>	</item>
+	</channel>
+</rss>

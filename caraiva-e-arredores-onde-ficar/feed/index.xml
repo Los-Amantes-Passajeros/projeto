@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Caraíva e arredores: onde ficar	</title>
+	<atom:link href="/caraiva-e-arredores-onde-ficar/feed/" rel="self" type="application/rss+xml" />
+	<link>/caraiva-e-arredores-onde-ficar/</link>
+	<description>viajar é preciso!</description>
+	<lastBuildDate>Wed, 28 Apr 2021 17:27:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>
+		Por: Vinicius		</title>
+		<link>/caraiva-e-arredores-onde-ficar/#comment-17</link>
+
+		<dc:creator><![CDATA[Vinicius]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2013 19:48:14 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=79#comment-17</guid>
+
+					<description><![CDATA[ola coralina, que delicia o blog. adorei todos os posts. e tb o nome.]]></description>
+			<content:encoded><![CDATA[<p>ola coralina, que delicia o blog. adorei todos os posts. e tb o nome.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Caraíva: uma introdução &#124; Los amantes pasajeros		</title>
+		<link>/caraiva-e-arredores-onde-ficar/#comment-16</link>
+
+		<dc:creator><![CDATA[Caraíva: uma introdução &#124; Los amantes pasajeros]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 15:11:29 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=79#comment-16</guid>
+
+					<description><![CDATA[[&#8230;] &#8592; Caraíva e arredores: onde&#160;ficar [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] &larr; Caraíva e arredores: onde&nbsp;ficar [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Por: Caraíva e arredores: o que fazer &#124; Los amantes pasajeros		</title>
+		<link>/caraiva-e-arredores-onde-ficar/#comment-15</link>
+
+		<dc:creator><![CDATA[Caraíva e arredores: o que fazer &#124; Los amantes pasajeros]]></dc:creator>
+		<pubDate>Thu, 03 Oct 2013 13:30:26 +0000</pubDate>
+		<guid isPermaLink="false">http://losamantespasajeros.wordpress.com/?p=79#comment-15</guid>
+
+					<description><![CDATA[[&#8230;] &#8592; Lapinha da Serra &#8211;&#160;MG Caraíva e arredores: onde&#160;ficar &#8594; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] &larr; Lapinha da Serra &#8211;&nbsp;MG Caraíva e arredores: onde&nbsp;ficar &rarr; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
