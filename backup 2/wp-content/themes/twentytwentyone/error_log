@@ -1,0 +1,20 @@
+[25-Mar-2024 06:55:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php on line 17
+[16-May-2024 05:18:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php on line 17
+[23-May-2024 10:49:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php on line 17
+[23-May-2024 20:42:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php on line 17
+[03-Jun-2024 04:44:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentytwentyone/index.php on line 17

@@ -1,0 +1,4 @@
+[15-Apr-2023 10:38:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home1/losam763/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/losam763/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12
